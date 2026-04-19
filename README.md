@@ -19,7 +19,7 @@ Businesses often struggle to:
 
 ## ⚙️ Tech Stack
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- **SQL (PostgreSQL)**
+- **SQL (MySQL)**
 - **Power BI**
 - Data Cleaning & Feature Engineering
 - Exploratory Data Analysis (EDA)
