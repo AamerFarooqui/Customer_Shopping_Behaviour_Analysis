@@ -37,7 +37,7 @@ Businesses often struggle to:
 - Behavior Data (Discount, Frequency, Rating, Shipping)
 
 ---
-##📁Project Structure
+## 📁Project Structure
 
 ```
 customer-shopping-behaviour-analysis/
