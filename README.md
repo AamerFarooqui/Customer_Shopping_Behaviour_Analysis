@@ -134,16 +134,6 @@ Built an interactive dashboard showing:
 
 ---
 
-## 📂 Project Structure
-├── data/customer_shopping_behavior.csv
-├── notebooks/customer_shopping_analysis.ipynb
-├── sql_queries/customer_behaviour.sql
-├── powerbi_dashboard/customer_behavour_dashboard.pbix
-├── README.md
-
-
----
-
 ## 🚀 What I Learned
 - End-to-end data analysis workflow
 - Writing business-focused SQL queries
