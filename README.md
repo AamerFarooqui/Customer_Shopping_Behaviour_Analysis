@@ -37,7 +37,30 @@ Businesses often struggle to:
 - Behavior Data (Discount, Frequency, Rating, Shipping)
 
 ---
+##📁Project Structure
 
+```
+customer-shopping-behaviour-analysis/
+ 
+├── dataset/
+|   └──customer_shopping_behaviour.csv
+|
+├── notebook/
+│   └── customer_shopping_behaviour.ipynb
+│
+├── sql/
+│   └── customer_behaviour.sql
+│
+├── dashboard/
+|   └──customer_sbehaviour_dashboard.pbix
+|
+├── report/
+│   └── customer shopping behaviour analysis report.pdf
+│
+└── README.md
+```
+
+---
 ## 🧹 Data Cleaning & Preparation
 - Handled missing values using **median imputation (category-wise)**
 - Standardized column names (snake_case)
